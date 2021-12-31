@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f4783bd-c442-41cc-8663-50aa2b383503" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gridPane</find>
+      <find>dataFields</find>
+      <find>stops</find>
+      <find>btUp</find>
+      <find>Observable</find>
+      <find>int i</find>
+      <find>bind</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dataFields</replace>
+      <replace>stopInformation</replace>
+      <replace>possibleStops</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectId" id="1WrPX0NQpuduBlpvvAipNPlTPZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TripPlanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TripPlanner" />
+      <module name="ronnchen_finalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TripPlanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f4783bd-c442-41cc-8663-50aa2b383503" name="Default Changelist" comment="" />
+      <created>1557613280408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557613280408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom" timestamp="1579905317076">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1579905317076" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center" timestamp="1579905317075">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1579905317075" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left" timestamp="1579905317074">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1579905317074" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right" timestamp="1579905317075">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1579905317075" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579904896360">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1579904896360" />
+  </component>
+</project>
